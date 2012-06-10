@@ -7,6 +7,6 @@ function foo(){
 
 function bar(){
   console.log('i am so hungry');
-  console.log('then eat something');
+  console.log('too bad');
 }
 
