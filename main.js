@@ -4,3 +4,7 @@ function foo(){
   a = 1;
   b = 29;
 }
+
+function bar(){
+  console.log('i am so hungry');
+}
